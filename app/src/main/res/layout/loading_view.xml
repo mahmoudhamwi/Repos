@@ -10,7 +10,7 @@
         android:layout_height="wrap_content"
         android:gravity="center"
         android:orientation="vertical"
-        android:padding="8dp">
+        android:padding="@dimen/margin_small">
 
         <ProgressBar
             android:id="@+id/progress"
@@ -31,7 +31,7 @@
             android:id="@+id/retry"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:layout_marginTop="10dp"
+            android:layout_marginTop="@dimen/margin_standard"
             android:text="@string/retry"
             android:visibility="gone" />
     </LinearLayout>

@@ -10,6 +10,7 @@ import androidx.recyclerview.widget.RecyclerView
 import com.challenge.repos.App
 import com.challenge.repos.R
 import com.challenge.repos.databinding.LoadingViewBinding
+import com.challenge.repos.utils.hide
 import com.challenge.repos.utils.show
 
 /**
@@ -40,12 +41,10 @@ class LoadingStateAdapter(private val retry: () -> Unit) :
                 binding.errorMsg.text = message
                 if (message != App.getInstance().getString(R.string.no_more_data)) {
                     binding.retry.show()
-                }else{
-                    binding.retry.show()
+                } else {
+                    binding.retry.hide()
                 }
             }
-//            binding.errorMsg.isVisible = loadState is LoadState.Error
-//            binding.retry.isVisible = loadState is LoadState.Error
             binding.progress.isVisible = loadState is LoadState.Loading
         }
 
