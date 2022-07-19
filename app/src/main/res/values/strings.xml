@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Repos</string>
+    <string name="stars_count">%d stars</string>
+    <string name="repo_details">Repo details</string>
+    <string name="error">Error</string>
+    <string name="retry">Retry</string>
+    <string name="connection_error">Connection error</string>
+    <string name="please_check_your_internet_connection">Please check your internet connection</string>
+    <string name="no_more_data">No more data</string>
+    <string name="no_data_available">No data available</string>
+</resources>

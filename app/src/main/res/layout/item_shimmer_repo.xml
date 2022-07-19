@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:layout_margin="@dimen/margin_standard"
+    android:background="@color/gray_1"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center_vertical"
+        android:orientation="horizontal">
+
+        <com.google.android.material.imageview.ShapeableImageView
+            android:layout_width="@dimen/size_large"
+            android:layout_height="@dimen/size_large"
+            android:layout_margin="@dimen/margin_standard"
+            android:background="@color/placeholder" />
+
+        <TextView
+            android:layout_width="@dimen/size_huge_standard"
+            android:layout_height="wrap_content"
+            android:layout_marginEnd="@dimen/margin_standard"
+            android:background="@color/placeholder"
+            android:textColor="@color/dark_blue"
+            android:textSize="@dimen/text_size_standard" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="/"
+            android:textSize="@dimen/text_size_standard" />
+
+        <TextView
+            android:layout_width="@dimen/size_huge_standard"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="@dimen/margin_standard"
+            android:layout_marginEnd="@dimen/margin_standard"
+            android:background="@color/placeholder"
+            android:textColor="@color/dark_blue"
+            android:textSize="@dimen/text_size_large"
+            android:textStyle="bold" />
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="@dimen/size_huge_standard"
+        android:layout_height="wrap_content"
+        android:layout_gravity="end"
+        android:layout_marginStart="@dimen/margin_standard"
+        android:layout_marginEnd="@dimen/margin_standard"
+        android:layout_marginBottom="@dimen/margin_standard"
+        android:background="@color/placeholder"
+        android:textSize="@dimen/text_size_standard" />
+</LinearLayout>

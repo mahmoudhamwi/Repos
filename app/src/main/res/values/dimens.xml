@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Standard-->
+    <dimen name="text_size_big_standard">40sp</dimen>
+    <dimen name="text_size_xxx_large">30sp</dimen>
+    <dimen name="text_size_xx_large">25sp</dimen>
+    <dimen name="text_size_xlarge">20sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_standard">14sp</dimen>
+    <dimen name="text_size_small">12sp</dimen>
+    <dimen name="text_size_x_small">10sp</dimen>
+    <dimen name="text_size_xx_small">8sp</dimen>
+    <dimen name="text_size_xxx_small">5sp</dimen>
+
+    <dimen name="margin_xxx_large">30dp</dimen>
+    <dimen name="margin_xx_large">25dp</dimen>
+    <dimen name="margin_x_large">20dp</dimen>
+    <dimen name="margin_large">15dp</dimen>
+    <dimen name="margin_standard">10dp</dimen>
+    <dimen name="margin_small">8dp</dimen>
+    <dimen name="margin_x_small">5dp</dimen>
+    <dimen name="margin_xx_small">3dp</dimen>
+    <dimen name="margin_xxx_small">1dp</dimen>
+
+    <dimen name="radius_huge_standard">100dp</dimen>
+    <dimen name="radius_xxx_large">50dp</dimen>
+    <dimen name="radius_xx_large">40dp</dimen>
+    <dimen name="radius_x_large">30dp</dimen>
+    <dimen name="radius_large">20dp</dimen>
+    <dimen name="radius_standard">10dp</dimen>
+
+    <dimen name="size_massive_xxx_large">430dp</dimen>
+    <dimen name="size_massive_xx_large">400dp</dimen>
+    <dimen name="size_massive_x_large">350dp</dimen>
+    <dimen name="size_massive_large">300dp</dimen>
+    <dimen name="size_massive_standard">250dp</dimen>
+
+    <dimen name="size_huge_xxx_large">200dp</dimen>
+    <dimen name="size_huge_xx_large">180dp</dimen>
+    <dimen name="size_huge_x_large">150dp</dimen>
+    <dimen name="size_huge_large">120dp</dimen>
+    <dimen name="size_huge_standard">100dp</dimen>
+
+    <dimen name="size_heavy_xxx_large">105dp</dimen>
+    <dimen name="size_heavy_xx_large">100dp</dimen>
+    <dimen name="size_heavy_x_large">95dp</dimen>
+    <dimen name="size_heavy_standard">90dp</dimen>
+
+    <dimen name="size_big_xxx_large">85dp</dimen>
+    <dimen name="size_big_xx_large">80dp</dimen>
+    <dimen name="size_big_x_large">75dp</dimen>
+    <dimen name="size_big_standard">70dp</dimen>
+
+    <dimen name="size_xxx_large">65dp</dimen>
+    <dimen name="size_xx_large">60dp</dimen>
+    <dimen name="size_x_large">55dp</dimen>
+    <dimen name="size_large">50dp</dimen>
+    <dimen name="size_standard">45dp</dimen>
+    <dimen name="size_small">40dp</dimen>
+    <dimen name="size_x_small">35dp</dimen>
+    <dimen name="size_xx_small">30dp</dimen>
+    <dimen name="size_xxx_small">25dp</dimen>
+
+    <dimen name="size_tiny_standard">20dp</dimen>
+    <dimen name="size_tiny_x_small">15dp</dimen>
+    <dimen name="size_tiny_xx_small">10dp</dimen>
+    <dimen name="size_tiny_xxx_small">5dp</dimen>
+
+    <dimen name="elevation_x_large">5dp</dimen>
+    <dimen name="elevation_large">4dp</dimen>
+    <dimen name="elevation_standard">3dp</dimen>
+    <dimen name="elevation_small">2dp</dimen>
+    <dimen name="elevation_x_small">1dp</dimen>
+</resources>
